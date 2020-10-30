@@ -26,7 +26,7 @@ The given suspension coil dataset contains the results from the multiple product
 
 The overall information of the Suspension Coils can be summarised as
 a. The mean of the suspension coil df is 1499.531 and median of it is 1499.747 with standard deviation 8.7312 and Variance 76.234.
-!img[]
+!img[https://github.com/YadavThapa/MechaCar_Statistical_Analysis/blob/main/summary.PNG]
 
 b. The overall information of the coil df with lot wise information is found to be as
    
