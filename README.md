@@ -67,7 +67,25 @@ That means our population mean and sample mean from the manufacturing lot_3 is e
 ## Conclusion
 Hence from the above analysis, we can strongly say that the mean of each individual sample of manufacturing lots are statistically same of its population mean.
 
-
-
-
 ## Study Design: MechaCar vs Competition.
+
+## Factors influencing the Competition
+
+The cut throat competition is also one of the biggest challenges in a real time business environment which can directly influence the customer interest. It constitutes many factors other than the real product or services delivered.
+
+
+a. Cost of Product
+
+The cost of product has crucial role and it directly influence the customer. Higher the cost, lesser the purchase. So business should always focus on the disposable income of the customer and the cost of the product should be fixed accordlingly.
+
+b. Fuel Efficiency
+
+The another important factor which directly affects the customer is Fuel Efficiency. The higher the mileage, the customer will prefer the vehicle. The fuel efficiency also depends upon other parameter like rural area, city or urban area, moutain area etc. Business should always focus on high fuel efficiency to attract the potential customers. 
+
+c. Maintenance Cost
+
+The higher the maintenance cost, the lower the likelihood of purchasing the product. So there should not any etreme maintenance cost sine it will directly impact the customers and business as well. The net sales or turnover of the business fall over a long period and business cannot sustain.
+
+d. Satety Rating
+
+The most and important thing is safety of the customer under any circumstances. The vehicle should be properly designed and it should be safe to drive under any condition. And other safety measures should be placed incase of any emergency.
