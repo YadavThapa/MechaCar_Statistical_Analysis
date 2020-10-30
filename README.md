@@ -2,6 +2,8 @@
 ## Linear Regression to Predict MPG
 The given MechanCar_mg dataset provides the detail information about the Mile Per Gallon which is depends on multiple parameters of the vehicle_length, vehicle_weight, spoiler_angle, ground_clearance and AWD. We can generalise that MPG is outcomes(dependent variable) of all other input variable (independent variables).
 
+!img[https://github.com/YadavThapa/MechaCar_Statistical_Analysis/blob/main/analysis%201st.PNG]
+
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 From the above multiple linear regression analysis we came to know that the MPG varibles mostly dependend on the vehicle length and ground clearance.
