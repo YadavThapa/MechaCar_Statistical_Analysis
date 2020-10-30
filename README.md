@@ -22,5 +22,20 @@ The above multiple linear regression model does not help to predict the MPG(mode
 
 ## Summary Statistics on Suspension Coils
 
+The given suspension coil dataset contains the results from the multiple production lots. 
+
+The overall information of the Suspension Coils can be summarised as
+a. The mean of the suspension coil df is 1499.531 and median of it is 1499.747 with standard deviation 8.7312 and Variance 76.234.
+!img[]
+
+b. The overall information of the coil df with lot wise information is found to be as
+   
+   Manufacturiong_lot1 has mean 1500.018, median 1500.206, sd 1.070525 and variance 1.146024.
+   Similarly manufacturing_lot2 has mean 1499.571, median 1498.873, sd 3.183003 and variance 10.13151.
+   And manufacturing_lot3 has mean 1499.004, median 1497.981, sd 14.832753 and 220.010563.
+   
+![https://github.com/YadavThapa/MechaCar_Statistical_Analysis/blob/main/summary%20lotwise.PNG]
+
+
 ## T-Tests on Suspension Coils
 ## Study Design: MechaCar vs Competition.
