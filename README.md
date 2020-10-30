@@ -44,6 +44,30 @@ From the comparative analysis of total_summary and lot_summary data, we can conc
 
 ## T-Tests on Suspension Coils
 
+!img[https://github.com/YadavThapa/MechaCar_Statistical_Analysis/blob/main/population.PNG]
+
+a. From the above analysis, we have found that our p-value is 0.4894 which is greater than .05. Hence we do not have strong evidence to reject the null hypothesis.
+That means our population mean is equal to 1500.
+
+!img[https://github.com/YadavThapa/MechaCar_Statistical_Analysis/blob/main/sample1.PNG]
+
+b. From the above analysis, we have found our p-value is 0.9067 which is greater than .05. Hence we do not have strong  evidence to reject the null hypothesis.
+That means our population mean and sample mean from the manufacturing lot_1 is equal to 1500 or same.
+
+!img[https://github.com/YadavThapa/MechaCar_Statistical_Analysis/blob/main/sample2.PNG]
+
+c. From the above analysis, we have found our p-value is 0.3416 which is greater than .05. Hence we do not have strong  evidence to reject the null hypothesis.
+That means our population mean and sample mean from the manufacturing lot_2 is equal to 1500 or same.
+
+!img[https://github.com/YadavThapa/MechaCar_Statistical_Analysis/blob/main/sample3.PNG]
+
+d.From the above analysis, we have found our p-value is 0.613 which is greater than .05. Hence we do not have strong  evidence to reject the null hypothesis.
+That means our population mean and sample mean from the manufacturing lot_3 is equal to 1500 or same.
+
+## Conclusion
+Hence from the above analysis, we can strongly say that the mean of each individual sample of manufacturing lots are statistically same of its population mean.
+
+
 
 
 ## Study Design: MechaCar vs Competition.
