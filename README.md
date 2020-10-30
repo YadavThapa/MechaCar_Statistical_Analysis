@@ -89,3 +89,26 @@ The higher the maintenance cost, the lower the likelihood of purchasing the prod
 d. Satety Rating
 
 The most and important thing is safety of the customer under any circumstances. The vehicle should be properly designed and it should be safe to drive under any condition. And other safety measures should be placed incase of any emergency.
+
+# Research Design
+
+## A metric to be tested is mentioned
+The given Suspension Coil data set has the information about Vehicle ID, Manufacturing Lot and PSI. 
+
+We are going to measure or perform the t-test for population mean of PSI and same for the sample of Lot_1, Lot_2 and Lot_3.
+
+## A null hypothesis or an alternative hypothesis is described
+Null Hypotheis : There is no significance difference between presumed population mean and observed sample mean.
+Alternative Hypothesis : There is a difference between presumend population mean and observed sample mean.
+
+## A statistical test is described to test the hypothesis
+ We are performing the sample t-test to measure or compare the mean of one dataset to another under the few consideration.
+
+## The data for the statistical test is described
+we satisfy all the assumptions or condition to perform t-test.
+
+a. The given input data sets are numerical and continous in nature.
+b. The sample data set extracted randomly from its population.
+c. The input data is considered to be normally distributed.
+d. The sample size is resonable large and its satisfies the theory of approximation.
+e. The variance of input data are identical.
