@@ -18,7 +18,7 @@ The slope of the linear model should not not be zero because we would not be abl
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-The above multiple linear regression model does not help to predict the MPG(moderate) values of MechaCar prototypes since the R^2 values and Adj R^2 values are less than 80%. We can say the predicted linear model are moderately strong to include in our consideration. But we can utilise the this model in our business considering other assumption very carefully.
+The above multiple linear regression model does not help to predict the MPG(moderate) values of MechaCar prototypes since the R^2 values and Adjusted R^2 values are less than 80%. We can say the predicted linear model are moderately strong to include in our consideration. But we can utilise the this model in our business considering other assumption very carefully.
 
 ## Summary Statistics on Suspension Coils
 
