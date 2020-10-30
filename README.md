@@ -107,8 +107,8 @@ Alternative Hypothesis : There is a difference between presumend population mean
 ## The data for the statistical test is described
 we satisfy all the assumptions or condition to perform t-test.
 
-a.  The given input data sets are numerical and continous in nature.
-b.  The sample data set extracted randomly from its population.
-c.  The input data is considered to be normally distributed.
-d.  The sample size is resonable large and its satisfies the theory of approximation.
-e.  The variance of input data are identical.
+ a.  The given input data sets are numerical and continous in nature.
+ b.  The sample data set extracted randomly from its population.
+ c.  The input data is considered to be normally distributed.
+ d.  The sample size is resonable large and its satisfies the theory of approximation.
+ e.  The variance of input data are identical.
